@@ -1,0 +1,6 @@
+# ignore vim swp files
+*.swp
+
+# cpp executalbe
+a.out
+
